@@ -1,0 +1,12 @@
+.flag-img {
+  max-height: 65vh;
+  max-width: 90%;
+  border: 1px solid black;
+  margin: 15px;
+}
+
+.flex-class {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
